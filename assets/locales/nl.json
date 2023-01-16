@@ -55,7 +55,7 @@
     "Addons": {
         "byline": "door {{author}}",
         "openFolder": "Open {{type}} folder",
-        "reload": "Herladeen",
+        "reload": "Herladen",
         "addonSettings": "Instellingen",
         "website": "Website",
         "source": "Bronnen",
@@ -70,7 +70,7 @@
         "editAddon": "Bewerken",
         "deleteAddon": "Verwijderen",
         "confirmDelete": "Weet je het zeker dat je {{name}} wilt verwijderen?",
-        "confirmationText": "Je hebt niet-opgeslagen wijzigingen in {{naam}}. Als je dit venster sluit, gaan alle wijzigingen verloren.",
+        "confirmationText": "Je hebt niet-opgeslagen wijzigingen in {{name}}. Als je dit venster sluit, gaan alle wijzigingen verloren.",
         "unknownAuthor": "Onbekende schrijver",
         "noDescription": "Beschrijving kon niet worden weergegeven"
     },
@@ -78,12 +78,12 @@
         "favoriteAction": "Favorieten"
     },
     "PublicServers": {
-        "button": "openbaar",
+        "button": "Openbare Servers",
         "loading": "Aan het laden...",
         "loadMore": "Laad meer...",
         "notConnected": "Niet verbonden.",
         "search": "Zoeken",
-        "connect": "Verbindeen",
+        "connect": "Verbind",
         "categories": "Categorieën"
     },
     "Modals": {
@@ -92,7 +92,7 @@
         "cancel": "Annuleren",
         "close": "Bijna",
         "name": "Naam",
-        "message": "Berich",
+        "message": "Bericht",
         "error": "Fout!"
     },
     "Sorting": {
